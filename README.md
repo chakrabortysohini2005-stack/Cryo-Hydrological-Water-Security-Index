@@ -166,8 +166,3 @@ Because every asset is embedded, the app is intentionally a single artefact. Thi
 
 Built by hand as a demonstration of scientific storytelling on the open web — cartography, hydrology and front-end craft in a single file.
 
----
-
-## License
-
-No license file is included yet. Until one is added, all rights are reserved by the author. If you'd like others to reuse the work, consider adding a license — [MIT](https://choosealicense.com/licenses/mit/) for permissive reuse, or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for the accompanying scientific content and figures.
